@@ -6,3 +6,5 @@
 - 📝CSDN：https://blog.csdn.net/Jack_lzx
 
 请多多指教！☀️☀️☀️
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lzxjack&show_icons=true)
