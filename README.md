@@ -7,3 +7,9 @@
 - 📝CSDN：https://blog.csdn.net/Jack_lzx
 
 请多多指教！😃😃😃
+
+# 🎬关于我的GitHub
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lzxjack&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzxjack&layout=compact)
